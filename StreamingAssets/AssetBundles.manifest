@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1058867331
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_desktop
+      Dependencies: {}
